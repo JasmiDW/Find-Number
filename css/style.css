@@ -1,0 +1,41 @@
+
+
+.number input{
+    border-radius: 10px;
+    height: 30px;
+    border:1px solid rgb(160,134,160);
+    background-color: transparent;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+input:focus{
+    outline-color: lightsalmon;
+}
+
+
+.envoyer input{
+    width: 70px;
+    border-radius: 10px;
+    height: 30px;
+    background-color: rgb(160, 134, 160);
+    color:white;
+    border:0;
+
+}
+
+.envoyer input:hover{
+    background-color: lightsalmon;
+    color: white;
+    border:0;
+    cursor:pointer;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color:lightsalmon;
+    text-transform: uppercase;
+ }
